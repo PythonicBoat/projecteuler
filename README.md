@@ -1,4 +1,4 @@
-<h1 align='center'>Solutions to [ProjectEuler](https://projecteuler.net/archives) problems</h1>
+<h1 align='center'>Solutions to Project Euler problems</h1>
 <div align='center'>
 <a href="https://github.com/pythonicboat/projecteuler/stargazers"><img src="https://img.shields.io/github/stars/pythonicboat/projecteuler" alt="Stars Badge"/></a>
 <a href="https://github.com/pythonicboat/projecteuler/network/members"><img src="https://img.shields.io/github/forks/pythonicboat/projecteuler" alt="Forks Badge"/></a>
@@ -11,7 +11,7 @@
 </a>
 <img src="https://img.shields.io/github/repo-size/Pythonicboat/projecteuler.svg?label=Repo%20size" height="20">
 </div>
----
+
 |#|Title|Solution|
 |:---:|:------:|:-----:|
 |1|[Multiples of 3 and 5](https://projecteuler.net/problem=1)|[Python](https://github.com/PythonicBoat/projecteuler/tree/main/problems/1.py)|
