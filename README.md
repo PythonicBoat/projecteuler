@@ -1,4 +1,4 @@
-# Solutions to [ProjectEuler](https://projecteuler.net/archives) problems
+<div align='center'>Solutions to [ProjectEuler](https://projecteuler.net/archives) problems</div>
 
 > Accepting solutions in C, Java and Python
 
