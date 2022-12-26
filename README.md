@@ -1,7 +1,17 @@
-<div align='center'>Solutions to [ProjectEuler](https://projecteuler.net/archives) problems</div>
-
-> Accepting solutions in C, Java and Python
-
+<h1 align='center'>Solutions to [ProjectEuler](https://projecteuler.net/archives) problems</h1>
+<div align='center'>
+<a href="https://github.com/pythonicboat/projecteuler/stargazers"><img src="https://img.shields.io/github/stars/pythonicboat/projecteuler" alt="Stars Badge"/></a>
+<a href="https://github.com/pythonicboat/projecteuler/network/members"><img src="https://img.shields.io/github/forks/pythonicboat/projecteuler" alt="Forks Badge"/></a>
+<a href="https://github.com/pythonicboat/projecteuler/pulls"><img src="https://img.shields.io/github/issues-pr/pythonicboat/projecteuler" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/pythonicboat/projecteuler/issues"><img src="https://img.shields.io/github/issues/pythonicboat/projecteuler" alt="Issues Badge"/></a>
+<a href="https://github.com/pythonicboat/projecteuler/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pythonicboat/projecteuler?color=2b9348"></a>
+<a href="https://github.com/pythonicboat/projecteuler/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pythonicboat/projecteuler?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Pythonicboat/projecteuler/blob/master/CONTRIBUTING.md">
+    <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3" height="20" alt="Contributions Welcome">
+</a>
+<img src="https://img.shields.io/github/repo-size/Pythonicboat/projecteuler.svg?label=Repo%20size" height="20">
+</div>
+---
 |#|Title|Solution|
 |:---:|:------:|:-----:|
 |1|[Multiples of 3 and 5](https://projecteuler.net/problem=1)|[Python](https://github.com/PythonicBoat/projecteuler/tree/main/problems/1.py)|
