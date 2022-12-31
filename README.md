@@ -19,7 +19,7 @@
 |3|[Largest prime factor](https://projecteuler.net/problem=3)|[Python](https://github.com/PythonicBoat/projecteuler/blob/main/problems/python/3.py)|
 |4|[Largest Palinfrom product](https://projecteuler.net/problem=4)||
 |5|[Smallest multiple](https://projecteuler.net/problem=5)||
-|6|[Sum square difference](https://projecteuler.net/problem=6)||
+|6|[Sum square difference](https://projecteuler.net/problem=6)|[Python](https://github.com/PythonicBoat/projecteuler/blob/main/problems/6.py)|
 |7|[10001st prime](https://projecteuler.net/problem=7)||
 |8|[Largest Product in a series](https://projecteuler.net/problem=8)||
 |9|[Special Pythoagorean triplet](https://projecteuler.net/problem=9)||
