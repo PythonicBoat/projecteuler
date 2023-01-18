@@ -11,5 +11,5 @@ int sumOfSquares(int n){
     return sum2*sum2;
 }
 void main(){
-    printf("%d",abs(squareOfSum(limit)-sumOfSquares(limit)));
+    printf("%d",(abs(squareOfSum(limit)-sumOfSquares(limit))));
 }
