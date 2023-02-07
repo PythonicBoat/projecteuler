@@ -17,9 +17,9 @@
 |1|[Multiples of 3 and 5](https://projecteuler.net/problem=1)|[Python](https://github.com/PythonicBoat/projecteuler/tree/main/problems/python/1.py) , [C](https://github.com/PythonicBoat/projecteuler/tree/main/problems/c/1.c)|233168|
 |2|[Even Fibonacci numbers](https://projecteuler.net/problem=2)|[Python](https://github.com/PythonicBoat/projecteuler/blob/main/problems/python/2.py) , [C](https://github.com/PythonicBoat/projecteuler/tree/main/problems/c/2.c)|4613730|
 |3|[Largest prime factor](https://projecteuler.net/problem=3)|[Python](https://github.com/PythonicBoat/projecteuler/blob/main/problems/python/3.py) , [C](https://github.com/PythonicBoat/projecteuler/tree/main/problems/c/3.c)|6857|
-|4|[Largest Palinfrom product](https://projecteuler.net/problem=4)||
-|5|[Smallest multiple](https://projecteuler.net/problem=5)||
-|6|[Sum square difference](https://projecteuler.net/problem=6)|[Python](https://github.com/PythonicBoat/projecteuler/blob/main/problems/6.py)|
+|4|[Largest Palinfrom product](https://projecteuler.net/problem=4)|[Python](https://github.com/PythonicBoat/projecteuler/blob/main/problems/python/4.py)|
+|5|[Smallest multiple](https://projecteuler.net/problem=5)|[Python](https://github.com/PythonicBoat/projecteuler/blob/main/problems/python/5.py)|
+|6|[Sum square difference](https://projecteuler.net/problem=6)|[Python](https://github.com/PythonicBoat/projecteuler/blob/main/problems/6.py) , [C](https://github.com/PythonicBoat/projecteuler/blob/main/problems/c/6.py)|
 |7|[10001st prime](https://projecteuler.net/problem=7)|[Python](https://github.com/PythonicBoat/projecteuler/blob/main/problems/7.py)|
 |8|[Largest Product in a series](https://projecteuler.net/problem=8)||
 |9|[Special Pythoagorean triplet](https://projecteuler.net/problem=9)||
